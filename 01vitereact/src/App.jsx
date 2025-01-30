@@ -2,14 +2,12 @@ import Chai from "./Chai.jsx"
 
 
 function App() {
-  const username = "Chai aur code"
+  // const username = "Chai aur code"
   return (
     <>
+    <h1>chai aur react with vite | sahil</h1>
     <Chai/>
-    <h1>chai aur react {username}//evaluated expression </h1>
-    <p>test paragraph</p>
-    </>
-    
+    </> 
   )
 }
 
